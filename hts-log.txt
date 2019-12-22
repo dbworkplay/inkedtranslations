@@ -1,17 +1,13 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Dec 2019 23:31:20 at https://dbworkplay.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dbworkplay.com/ -O1 "C:\My Web Sites\test db" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Dec 2019 23:37:31 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\My Web Sites\ink" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-23:32:11	Warning: 	Moved Permanently for https://dbworkplay.com/?p=444
-23:32:11	Warning: 	File has moved from https://dbworkplay.com/?p=444 to https://dbworkplay.com/contact/
-23:32:12	Error: 	"Not Found" (404) at link https://dbworkplay.com/Version/ (from https://dbworkplay.com/wp-content/cache/autoptimize/js/autoptimize_da76963e57ec9b73811f833749023745.js)
-23:32:12	Error: 	"Not Found" (404) at link https://dbworkplay.com/version/ (from https://dbworkplay.com/wp-content/cache/autoptimize/js/autoptimize_da76963e57ec9b73811f833749023745.js)
-23:32:13	Error: 	"Not Found" (404) at link https://dbworkplay.com/contact/Version/ (from https://dbworkplay.com/wp-content/cache/autoptimize/js/autoptimize_aef40c71d2bda62b6a76bea75398f699.js)
-23:32:13	Error: 	"Not Found" (404) at link https://dbworkplay.com/contact/version/ (from https://dbworkplay.com/wp-content/cache/autoptimize/js/autoptimize_aef40c71d2bda62b6a76bea75398f699.js)
+23:40:54	Warning: 	Moved Permanently for localhost/wordpress/?p=444
+23:40:54	Warning: 	File has moved from localhost/wordpress/?p=444 to http://localhost/wordpress/contact/
 
-HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 59 links scanned, 53 files written (5900746 bytes overall) [5788348 bytes received at 109214 bytes/sec], 274101 bytes transferred using HTTP compression in 16 files, ratio 21%, 4.6 requests per connection
-(4 errors, 2 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 126 links scanned, 124 files written (10006490 bytes overall) [8763759 bytes received at 43171 bytes/sec], 1666669 bytes transferred using HTTP compression in 58 files, ratio 22%, 2.9 requests per connection
+(No errors, 2 warnings, 0 messages)
